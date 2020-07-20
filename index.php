@@ -40,10 +40,7 @@
             
             <div class="row mb-5">
                 <h3 class="display-4">ELECTRODOMESTICOS YA.</h3>
-                        <p class="lead">somos una plataforma dedicada a la venta de electrodomesticos para tu hogar.
-                            Contamos con una amplia gama de productos tanto nacionales como importados.
-                            Ofrecemos a nuestros clientes articulos de primera calidad y los mejores precios del mercado</p>
-                        <hr class="my-4">
+                        <p class="lead">     <hr class="my-4">
                         
                         
                         <div class="card col-lg-4">
